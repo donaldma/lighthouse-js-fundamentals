@@ -1,4 +1,4 @@
-var temperature = function(prompt("What is the temperature today?"));
+var temperature = 12;
 
 if (temperature < 0) {
   console.log("Make sure you pick out a scarf!");
